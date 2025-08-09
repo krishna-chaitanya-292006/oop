@@ -25,7 +25,7 @@ class Task_one
     }
 }
 
-public class Task1 {
+public class Task_1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
